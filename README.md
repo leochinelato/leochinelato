@@ -1,6 +1,6 @@
 ## About me
 
-*Hi, I'm **Leonardo**, currently an information security professional starting in the **programming** world.*
+*Hi, I'm **Leonardo**, currently an information security professional*
 
 
 <div style="display: inline_block"><br>
