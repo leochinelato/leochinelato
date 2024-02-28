@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block"><br>
-  Languages and Tools:
+  <h1>Languages and Tools:</h1>
   <img src="https://skillicons.dev/icons?i=git,docker,cs,html,css,js,flask,linux,postgres,postman,py" />
 </div>
 
