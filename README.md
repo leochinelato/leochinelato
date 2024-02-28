@@ -1,14 +1,10 @@
-## About me
+![image](https://github.com/leochinelato/leochinelato/assets/66490205/5fc5b1d3-cb03-4abd-b0e6-f58313d1f97c)## About me
 
 *Hi, I'm *Leonardo*, currently an information security professional. I'm passionate about programming and seeking to transition into this field.*
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="leo-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="leo-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="leo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="leo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="leo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://skillicons.dev/icons?i=git,docker,cs,html,css,js,flask,linux,postgres,postman,py" />
 </div>
 
 ## Contact me
