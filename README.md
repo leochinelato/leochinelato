@@ -4,6 +4,7 @@
 
 
 <div style="display: inline_block"><br>
+  Languages and Tools:
   <img src="https://skillicons.dev/icons?i=git,docker,cs,html,css,js,flask,linux,postgres,postman,py" />
 </div>
 
