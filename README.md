@@ -1,4 +1,4 @@
-![image](https://github.com/leochinelato/leochinelato/assets/66490205/5fc5b1d3-cb03-4abd-b0e6-f58313d1f97c)## About me
+## About me
 
 *Hi, I'm *Leonardo*, currently an information security professional. I'm passionate about programming and seeking to transition into this field.*
 
