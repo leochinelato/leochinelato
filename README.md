@@ -5,7 +5,7 @@
 
 <div style="display: inline_block"><br>
   <h1>Languages and Tools:</h1>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,py,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,py,fastapi,nodejs,react" />
 </div>
 
 ## Contact me
